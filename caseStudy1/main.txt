@@ -1,1 +1,4 @@
-iThis is the main text file in master branch
+iThis is the main text file in master branc
+i am editing this from  the develop branch
+now i will merge in release
+
